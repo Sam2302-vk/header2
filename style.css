@@ -1,0 +1,12 @@
+.head{
+    text-align: center;
+    background-color: rgb(83, 83, 237);
+}
+.head a{
+    margin: 20px;
+    width: 30px;
+}
+a:hover{
+    color: white;
+}
+ 
